@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/DiffusionDisentanglement-project-page/static/css/main.a46fdb23.css",
-    "main.js": "/DiffusionDisentanglement-project-page/static/js/main.a80dcf41.js",
+    "main.js": "/DiffusionDisentanglement-project-page/static/js/main.3863be74.js",
     "static/js/787.71e672d5.chunk.js": "/DiffusionDisentanglement-project-page/static/js/787.71e672d5.chunk.js",
     "static/media/example2.png": "/DiffusionDisentanglement-project-page/static/media/example2.ab390a65aa8ab7451d91.png",
     "static/media/teaser-2.png": "/DiffusionDisentanglement-project-page/static/media/teaser-2.aebaac749124d82ee518.png",
     "static/media/example1.png": "/DiffusionDisentanglement-project-page/static/media/example1.1c7fa6a699627d84070d.png",
     "static/media/pipeline-1.png": "/DiffusionDisentanglement-project-page/static/media/pipeline-1.2979704c5dd196c113a6.png",
-    "static/media/compare-for-web-1-5.png": "/DiffusionDisentanglement-project-page/static/media/compare-for-web-1-5.4d5779832423621eaf50.png",
-    "static/media/compare-for-web-1-6.png": "/DiffusionDisentanglement-project-page/static/media/compare-for-web-1-6.46606f8a2f7c453a938e.png",
-    "static/media/compare-for-web-1-2.png": "/DiffusionDisentanglement-project-page/static/media/compare-for-web-1-2.ea7ec1d1cb8bcfd69bc6.png",
-    "static/media/compare-for-web-1-4.png": "/DiffusionDisentanglement-project-page/static/media/compare-for-web-1-4.3e38b87328780c2cf0e8.png",
-    "static/media/compare-for-web-1-3.png": "/DiffusionDisentanglement-project-page/static/media/compare-for-web-1-3.487947b44981e3ca1982.png",
-    "static/media/compare-for-web-1-1.png": "/DiffusionDisentanglement-project-page/static/media/compare-for-web-1-1.b17cbb35d77b5cc337e3.png",
-    "static/media/compare-for-web-1-7.png": "/DiffusionDisentanglement-project-page/static/media/compare-for-web-1-7.b00c2eb745a1bf72b9b8.png",
+    "static/media/test5.png": "/DiffusionDisentanglement-project-page/static/media/test5.c4d03e4b3804341a835b.png",
+    "static/media/test6.png": "/DiffusionDisentanglement-project-page/static/media/test6.cdb45831c59742fad9be.png",
+    "static/media/test2.png": "/DiffusionDisentanglement-project-page/static/media/test2.1d15cd0ff2081d3f7b93.png",
+    "static/media/test4.png": "/DiffusionDisentanglement-project-page/static/media/test4.16c9a777698e924ec32f.png",
+    "static/media/test3.png": "/DiffusionDisentanglement-project-page/static/media/test3.6ecca21a7592d5eb4972.png",
+    "static/media/test1.png": "/DiffusionDisentanglement-project-page/static/media/test1.3a9f8094d4e85f2206cc.png",
+    "static/media/test7.png": "/DiffusionDisentanglement-project-page/static/media/test7.90380d4ded62cfc0d37e.png",
     "static/media/brand-icons.svg": "/DiffusionDisentanglement-project-page/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/DiffusionDisentanglement-project-page/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/outline-icons.svg": "/DiffusionDisentanglement-project-page/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
@@ -35,11 +35,11 @@
     "static/media/revicons.woff": "/DiffusionDisentanglement-project-page/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/DiffusionDisentanglement-project-page/index.html",
     "main.a46fdb23.css.map": "/DiffusionDisentanglement-project-page/static/css/main.a46fdb23.css.map",
-    "main.a80dcf41.js.map": "/DiffusionDisentanglement-project-page/static/js/main.a80dcf41.js.map",
+    "main.3863be74.js.map": "/DiffusionDisentanglement-project-page/static/js/main.3863be74.js.map",
     "787.71e672d5.chunk.js.map": "/DiffusionDisentanglement-project-page/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a46fdb23.css",
-    "static/js/main.a80dcf41.js"
+    "static/js/main.3863be74.js"
   ]
 }
