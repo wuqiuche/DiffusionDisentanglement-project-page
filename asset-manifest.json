@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DiffusionDisentanglement-project-page/static/css/main.a46fdb23.css",
-    "main.js": "/DiffusionDisentanglement-project-page/static/js/main.f1c90924.js",
+    "main.js": "/DiffusionDisentanglement-project-page/static/js/main.a80dcf41.js",
     "static/js/787.71e672d5.chunk.js": "/DiffusionDisentanglement-project-page/static/js/787.71e672d5.chunk.js",
     "static/media/example2.png": "/DiffusionDisentanglement-project-page/static/media/example2.ab390a65aa8ab7451d91.png",
     "static/media/teaser-2.png": "/DiffusionDisentanglement-project-page/static/media/teaser-2.aebaac749124d82ee518.png",
@@ -35,11 +35,11 @@
     "static/media/revicons.woff": "/DiffusionDisentanglement-project-page/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/DiffusionDisentanglement-project-page/index.html",
     "main.a46fdb23.css.map": "/DiffusionDisentanglement-project-page/static/css/main.a46fdb23.css.map",
-    "main.f1c90924.js.map": "/DiffusionDisentanglement-project-page/static/js/main.f1c90924.js.map",
+    "main.a80dcf41.js.map": "/DiffusionDisentanglement-project-page/static/js/main.a80dcf41.js.map",
     "787.71e672d5.chunk.js.map": "/DiffusionDisentanglement-project-page/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a46fdb23.css",
-    "static/js/main.f1c90924.js"
+    "static/js/main.a80dcf41.js"
   ]
 }
